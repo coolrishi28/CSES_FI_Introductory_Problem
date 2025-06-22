@@ -6,7 +6,7 @@ using namespace std;
  
 signed main()
 {
-    int n, i, k;
+    int n, k;
     cin >> n;
     k = n;
     for(;;)
