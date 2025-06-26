@@ -21,3 +21,4 @@ signed main()
             cout << "NO" << endl;
         }
     }
+}
