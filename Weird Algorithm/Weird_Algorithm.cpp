@@ -3,6 +3,7 @@ using namespace std;
  
 #define ll long long
 #define int ll
+#define mod 1e9 + 7
  
 signed main()
 {
