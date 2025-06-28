@@ -13,7 +13,7 @@ signed main()
     string str;
     cin >> str;
     vector<string> ans;
-    int count = 0, i, len = str.length();
+    int count = 0, i;
     sort(str.begin(), str.end());
     
     do{
